@@ -1,1 +1,1 @@
-# repo02-for-simple-page
+# THIS PROJECT IS ABOUT A SIMPLE PAGE
